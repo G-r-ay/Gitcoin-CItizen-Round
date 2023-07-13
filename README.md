@@ -12,7 +12,7 @@ This repository contains the code and data for performing similarity analysis on
 
 ## Introduction
 
-The Gitcoin Citizen Round is a dataset that captures voting and funding activities of participants in the Gitcoin ecosystem. This similarity analysis focuses on identifying similar addresses based on their voting and funding patterns, allowing for the grouping of addresses with similar behavior.
+The Gitcoin Citizen Round is a dataset that captures the voting and funding activities of participants in the Gitcoin ecosystem. This similarity analysis focuses on identifying similar addresses based on their voting and funding patterns, allowing for the grouping of addresses with similar behavior.
 
 ## Getting Started
 
@@ -45,6 +45,10 @@ The analysis includes the following steps:
 The analysis provides the following results:
 
 - Cluster Grouping: Similar addresses are grouped together based on their voting and funding patterns. Each cluster represents a group of addresses with high similarity.
-- Unique Rows: Within each cluster, only unique rows are included, avoiding duplicate addresses.
+
+
+## Data
+- [Dataset](https://huggingface.co/datasets/Poupou/Gitcoin-Citizen-Round)
+- The other data was queried on the 12th of july
 
 The results of the similarity analysis are printed to the console, displaying the cluster groups and their respective addresses.
