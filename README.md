@@ -44,7 +44,8 @@ The analysis includes the following steps:
 
 The analysis provides the following results:
 
-- Cluster Grouping: Similar addresses are grouped together based on their voting and funding patterns. Each cluster represents a group of addresses with high similarity.
+- Cluster Grouping: Similar addresses are grouped together based on their voting and funding patterns. Each cluster represents a group of addresses with high similarity. (FILE)['https://github.com/G-r-ay/Gitcoin-CItizen-Round/blob/main/sybil_clusters.json']
+
 
 
 ## Data
